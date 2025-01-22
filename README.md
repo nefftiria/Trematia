@@ -5,6 +5,7 @@ Trematia is a fully customizable theme designed to enhance your user interface. 
 
 **Version:** 1.1  
 **Author:** NeffTea  
+**Discord:** [nefftea](https://discord.com/users/789587605943091213)  
 **Theme Motto:** Trematia = God. God = Trematia.
 
 ---
@@ -33,4 +34,5 @@ Trematia is a fully customizable theme designed to enhance your user interface. 
 ## How to Use
 1. Copy the following code to your CSS file:
    ```css
+   @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/build/v1/naat.v1.css);
    @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/trematia.theme.css);
