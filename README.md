@@ -5,7 +5,7 @@ Trematia is a fully customizable theme designed to enhance your user interface. 
 
 **Version:** 1.1  
 **Author:** NeffTea  
-**Discord:** [nefftea](https://discord.com/users/789587605943091213)  
+**Discord:** [nefftea](https://discord.com/users/nefftea)  
 **Theme Motto:** Trematia = God. God = Trematia.
 
 ---
@@ -31,8 +31,44 @@ Trematia is a fully customizable theme designed to enhance your user interface. 
 
 ---
 
-## How to Use
-1. Copy the following code to your CSS file:
-   ```css
-   @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/build/v1/naat.v1.css);
-   @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/trematia.theme.css);
+## How to Use with Vencord
+
+1. **Enable Themes in Vencord**:
+   - Open your Discord client with Vencord installed.
+   - Go to **Settings → Themes**.
+
+2. **Open the Themes Folder**:
+   - In the **Themes** section, click on the **"Open Themes Folder"** button.
+   - This will open the folder where all your themes are stored.
+
+3. **Create the Trematia Theme File**:
+   - Inside the folder, create a new file and name it `Trematia.theme.css`.
+     - Ensure the file has the exact name, including the `.css` extension.
+
+4. **Paste the Theme Code**:
+   - Open the `Trematia.theme.css` file you just created.
+   - Copy and paste the following code into the file:
+     ```css
+     @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/build/v1/naat.v1.css);
+     @import url(https://raw.githubusercontent.com/nefftiria/Trematia/main/trematia.theme.css);
+     ```
+
+5. **Activate the Theme**:
+   - Go back to the **Themes** section in Discord settings.
+   - You should now see the Trematia theme listed. Toggle it ON to enable it.
+
+6. **Enjoy Trematia**:
+   - The theme will now be applied to your Discord client.
+   - If you want to make changes, simply edit the `Trematia.theme.css` file and save it to see updates in real-time.
+
+---
+
+## Contribution
+Feel free to fork this repository and submit pull requests with improvements or suggestions. Let's make Trematia even better!
+
+---
+
+## Support
+If you encounter any issues or have questions, feel free to reach out via GitHub issues or contact me on Discord: [nefftea](https://discord.com/users/nefftea).
+
+**Enjoy Trematia!**
