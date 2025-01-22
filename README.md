@@ -5,7 +5,7 @@ Trematia is a fully customizable theme designed to enhance your user interface. 
 
 **Version:** 1.1  
 **Author:** NeffTea  
-**Discord:** [nefftea](https://discord.com/users/nefftea)  
+**Discord:** [nefftea](https://discord.com/users/789587605943091213)  
 **Theme Motto:** Trematia = God. God = Trematia.
 
 ---
@@ -69,6 +69,6 @@ Feel free to fork this repository and submit pull requests with improvements or 
 ---
 
 ## Support
-If you encounter any issues or have questions, feel free to reach out via GitHub issues or contact me on Discord: [nefftea](https://discord.com/users/nefftea).
+If you encounter any issues or have questions, feel free to reach out via GitHub issues or contact me on Discord: [nefftea](https://discord.com/users/789587605943091213).
 
 **Enjoy Trematia!**
